@@ -1,6 +1,7 @@
 <h1 align="center">Hi dear 👋, I'm Pedro Baltar</h1>
 <h3 align="center">I'm Full Stack Engineer, passionate about technology and always looking to learn more.</h3>
 
+<hr>
 
 
 - 🔭 I'm currently looking for an opportunity
