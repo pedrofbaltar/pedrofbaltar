@@ -2,7 +2,7 @@
 <h3 align="center">Developer in Development</h3>
 
 <h4 align="center">
-  I'm Full Stack Development Student, passionate about technology and always looking to learn more.
+  I'm self-taught Full Stack Developer, passionate about technology and always looking to learn more.
 </h4
 
 <br>
