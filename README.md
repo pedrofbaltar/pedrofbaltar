@@ -11,7 +11,7 @@
 
 - 🔭 I'm currently looking for an opportunity
 - 🌱 I’m currently learning Full Stack development
-- 💬 Ask me about: **HTML, CSS, JavaScript, NodeJS**
+- 💬 Ask me about: **HTML, CSS, JavaScript, NodeJS, SQL**
 - 📫 How to reach me: **pfbaltariead@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-felipe-baltar-2a26a31ab/)
 
