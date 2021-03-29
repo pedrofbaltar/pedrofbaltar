@@ -17,6 +17,10 @@
 
 
 
-
-  ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofbaltar&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofbaltar&layout=compact)](https://github.com/pedrofbaltar)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrofbaltar&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofbaltar&layout=compact" />
+</a>
 
