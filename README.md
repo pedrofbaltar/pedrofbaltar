@@ -15,7 +15,6 @@
 - 📫 How to reach me: **pfbaltariead@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-felipe-baltar-2a26a31ab/)
 
-<br>
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
