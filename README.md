@@ -15,4 +15,4 @@
 - 📫 How to reach me: **pfbaltariead@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-felipe-baltar-2a26a31ab/)
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofbaltar&show_icons=true&theme=radical)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofbaltar&show_icons=true&theme=dark)
