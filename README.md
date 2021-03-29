@@ -21,5 +21,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrofbaltar&theme=default&show_icons=true&hide=prs&disable_animations=false" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=default&disable_animations=false&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=default&disable_animations=false&langs_count=20" />
 </a>
