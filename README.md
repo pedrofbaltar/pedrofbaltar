@@ -18,5 +18,5 @@
 
 
 
-  ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofbaltar&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofbaltar&layout=compact&theme=dracula&count_private=true)](https://github.com/pedrofbaltar/github-readme-stats)
+  ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofbaltar&show_icons=true&theme=dark) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedrofbaltar)](https://github.com/pedrofbaltar/github-readme-stats)
 
