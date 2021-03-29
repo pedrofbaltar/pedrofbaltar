@@ -18,9 +18,8 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrofbaltar&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofbaltar&layout=compact" />
 </a>
-
