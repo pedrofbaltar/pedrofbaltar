@@ -17,9 +17,6 @@
 
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrofbaltar&theme=nord&show_icons=true&hide=prs&disable_animations=false" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofbaltar&layout=compact&theme=nord&disable_animations=false&langs_count=6" />
 </a>
