@@ -1,22 +1,10 @@
-<h1 align="center">Hi dear, I'm Pedro Baltar</h1>
-<h3 align="center">Software Engineer</h3>
+### I'm Pedro Baltar! 👋</h1>
+#### Software Engineer
 
-<h4 align="center">
-  I'm self-taught Full Stack Developer, passionate about technology and always looking to learn more.
-</h4
-
-<br>
-<hr>
-
+I'm self-taught Full Stack Developer, passionate about technology and always looking to learn more.
 
 - 🔭 I'm currently looking for an opportunity
 - 🌱 I’m currently learning Full Stack development and studying Systems Analysis and Development
-- 💬 Ask me about: **HTML, CSS, JavaScript, TypeScript, NodeJS, SQL, React, React Native**
+- 💬 Ask me about: **HTML, CSS, JavaScript, TypeScript, NodeJS, PostgreSQL, ReactJS, React Native**
 - 📫 How to reach me: **pfbaltariead@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-felipe-baltar-2a26a31ab/)
-
-<hr>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofbaltar&layout=compact&theme=nord&disable_animations=false&langs_count=6" />
-</a>
