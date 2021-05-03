@@ -1,7 +1,6 @@
 ### I'm Pedro Baltar! 👋</h1>
-#### Software Engineer
 
-I'm self-taught Full Stack Developer, passionate about technology and always looking to learn more.
+I'm self-taught developer, passionate about technology and always looking to learn more.
 
 - 🔭 I'm currently looking for an opportunity
 - 🌱 I’m currently learning Full Stack development and studying Systems Analysis and Development
