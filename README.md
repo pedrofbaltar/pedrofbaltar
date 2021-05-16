@@ -1,4 +1,4 @@
-### I'm Pedro Baltar! 👋</h1>
+### I'm Pedro Felipe Baltar! 👋</h1>
 
 I'm self-taught developer, passionate about technology and always looking to learn more.
 
