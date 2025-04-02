@@ -8,5 +8,5 @@ Frontend: Angular
 Data Bases: SQL Server, RavenDB
 Others: Azure, AWS, Git
 
-- 📫 How to reach me: **pfbaltariead@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedrofbaltar/)
+📫 How to reach me: **pfbaltariead@gmail.com**
+💼 [LinkedIn](https://www.linkedin.com/in/pedrofbaltar/)
