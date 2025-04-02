@@ -1,4 +1,5 @@
 ### I'm Pedro! 👋
+### Software Engineer
 
 Results-driven Software Engineer with experience in designing and developing scalable APIs and microservices using C#/.NET Core. Strong background in distributed systems, cloud-based messaging solutions and database optimization. Fast learner with a deep understanding of business logic. Commitment to high-quality code and software architecture.
 
